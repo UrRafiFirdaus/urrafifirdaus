@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 🌱 I’m currently learning [**Laravel**](https://laravel.com) Framework
+- 🐧 Linux Intermediate
 - 💬 Ask me about Linux and Your tech problem
 
 #### 💫 TECH STACK
