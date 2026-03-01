@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 #### 🎵 SPOTIFY PLAYING
 
-[![Spotify](https://novatorem2-ecru.vercel.app/api/orchestrator)](https://open.spotify.com/user/Ser_John_Fastolf)
+[![Spotify](https://spotify-now-paying-git-main-serjohnfastlof-2427s-projects.vercel.app/api/orchestrator)](https://open.spotify.com/user/Ser_John_Fastolf)
 
 #### 💫 TECH STACK
 
