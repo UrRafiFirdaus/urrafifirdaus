@@ -19,6 +19,10 @@ Here are some ideas to get you started:
 - 🐧 Linux Intermediate
 - 💬 Ask me about Linux and Your tech problem
 
+#### 🎵 SPOTIFY PLAYING
+
+[![Spotify](https://serjohnfastlof-2427.vercel.app/api/orchestrator)](https://open.spotify.com/user/Ser_John_Fastolf)
+
 #### 💫 TECH STACK
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,php,laravel)](https://skillicons.dev)
