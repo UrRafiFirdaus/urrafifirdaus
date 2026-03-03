@@ -21,7 +21,12 @@ Here are some ideas to get you started:
 
 #### 🎵 SPOTIFY PLAYING
 
-[![Spotify](https://spotify-now-paying-git-main-serjohnfastlof-2427s-projects.vercel.app/api/spotify)](https://open.spotify.com/user/Ser_John_Fastolf)
+<a href="https://manaf.pythonanywhere.com/link">
+  <img
+    src="https://manaf.pythonanywhere.com"
+    alt="Current Spotify Song"
+  />
+</a>
 
 #### 💫 TECH STACK
 
