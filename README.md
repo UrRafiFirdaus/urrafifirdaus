@@ -23,6 +23,8 @@ Here are some ideas to get you started:
 
 ![UrRafiFirdaus](img/github-gif2.gif)
 
+<img src="img/github-gif.gif" width="200">
+
 #### 💫 TECH STACK
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,php,laravel)](https://skillicons.dev)
