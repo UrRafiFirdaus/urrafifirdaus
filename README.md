@@ -19,14 +19,7 @@ Here are some ideas to get you started:
 - 🐧 Linux Intermediate
 - 💬 Ask me about Linux and Your tech problem
 
-#### 🎵 SPOTIFY PLAYING
-
-<a href="https://manaf.pythonanywhere.com/link">
-  <img
-    src="https://manaf.pythonanywhere.com"
-    alt="Current Spotify Song"
-  />
-</a>
+![UrRafiFirdaus](img/github-gif.gif)
 
 #### 💫 TECH STACK
 
