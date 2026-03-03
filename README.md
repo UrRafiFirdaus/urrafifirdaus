@@ -21,9 +21,15 @@ Here are some ideas to get you started:
 
 ![UrRafiFirdaus](img/github-gif.gif)
 
+<div align="center">
+
 #### 💫 TECH STACK
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,php,laravel)](https://skillicons.dev)
+
+</div>
+
+<div align="center">
 
 #### 🖥️ SKILLS
 
