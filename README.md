@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - 🐧 Linux Intermediate
 - 💬 Ask me about Linux and Your tech problem
 
-![UrRafiFirdaus](img/github-gif.gif)
+<img src="img/github-gif.gif" style="border-radius:15px;">
 
 <div align="center">
 
